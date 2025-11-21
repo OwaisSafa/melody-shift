@@ -1,0 +1,47 @@
+# Melody Shift - Spotify to YouTube Music Playlist Transfer
+
+## Overview
+Melody Shift is a free, open-source web application that allows users to seamlessly transfer their music playlists from Spotify to YouTube Music. The tool supports both individual playlist transfers and bulk migrations.
+
+## Key Features
+- **Free Playlist Transfer**: No subscription or payment required
+- **Spotify to YouTube Music**: Direct playlist migration between platforms
+- **Multiple Transfer Options**: 
+  - Transfer via Spotify account login
+  - Transfer via public playlist link
+  - Private YouTube Music account support
+  - Public YouTube Music playlist creation
+- **Bulk Operations**: Transfer multiple playlists at once
+- **Track Matching**: Intelligent song matching between platforms
+- **Progress Tracking**: Real-time transfer status and results
+- **Open Source**: Available on GitHub at https://github.com/OwaisSafa/melody-shift
+
+## Use Cases
+1. **Platform Migration**: Moving your entire music library from Spotify to YouTube Music
+2. **Playlist Sharing**: Converting Spotify playlists to YouTube Music format
+3. **Music Discovery**: Transferring curated playlists between services
+4. **Backup**: Creating copies of playlists across platforms
+
+## Technical Details
+- **Frontend**: React, TypeScript, Vite, TailwindCSS
+- **Backend**: Python, FastAPI, ytmusicapi
+- **Authentication**: Supports both OAuth and header-based authentication
+- **Privacy**: User headers are processed securely and not stored permanently
+
+## Target Audience
+- Spotify users switching to YouTube Music
+- Music enthusiasts managing playlists across platforms
+- Users wanting to backup their playlists
+- People sharing music collections with friends on different platforms
+
+## Keywords
+spotify to youtube music, transfer playlist, spotify playlist converter, youtube music transfer, migrate spotify playlists, spotify to ytmusic, playlist migration tool, free playlist transfer, music playlist converter, spotify export, youtube music import, playlist sync, music migration, spotify backup, youtube music playlist creator
+
+## Repository
+https://github.com/OwaisSafa/melody-shift
+
+## License
+Open Source (Check repository for specific license)
+
+## Support
+For issues, feature requests, or contributions, visit the GitHub repository.
